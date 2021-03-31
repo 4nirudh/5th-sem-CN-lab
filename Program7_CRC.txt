@@ -1,6 +1,5 @@
-package src;
 import java.io.*;
-class Program7_CRC
+class Program7_CRC //make sure the name of your java file is the same
 {
 	public static void main(String args[]) throws IOException
 	{
