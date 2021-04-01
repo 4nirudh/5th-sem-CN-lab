@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program8-BellmanFord
+public class Program8_BellmanFord
 {
 	int d[],noofvertices;
 	public BellmanFord(int noofvertices) 
